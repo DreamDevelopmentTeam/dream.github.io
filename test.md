@@ -1,6 +1,6 @@
 ## Test Page
 
-<h2>This is a test page.</h2>
+<h3>This is a test page.</h3>
 
 There are some test texts.
 
