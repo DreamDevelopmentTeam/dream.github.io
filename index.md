@@ -3,7 +3,9 @@
 <!-- hshmeng join in the 2023 y 10 d 3 d -->
 <!-- i thik hshmemg is ShuaGe in 23WangAn -->
 
-<h1>梦想发展团队</h1>
+<h1>梦想开发团队</h1>
+
+<!-- PS: 不是发展团队 -->
 
 [我们的Github主页地址](https://github.com/DreamDevelopmentTeam/)
 
