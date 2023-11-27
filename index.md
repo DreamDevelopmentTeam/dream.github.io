@@ -21,6 +21,14 @@
 
 ---
 
+<h3>团队成员博客列表</h3>
+
+[YELANDAOKONG](https://ykws.xyz/)
+
+[gouwuyu-q](https://bvg-blog.devtm.top/)
+
+---
+
 <h3>奇怪的项目列表</h3>
 
 [我们开发的奇怪项目列表](/projects)
