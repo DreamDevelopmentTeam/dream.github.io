@@ -26,7 +26,7 @@
 
 [YELANDAOKONG](https://ykws.xyz/)
 
-[gouwuyu-q](https://bvg-blog.devtm.top/)
+[gouwuyu-q](https://mosf-bvg-blog.devtm.top/)
 
 ---
 
